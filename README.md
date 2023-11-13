@@ -44,4 +44,22 @@ Explore the full project and its findings:
 - [GitHub](https://lnkd.in/gbTeCy5R)
 
 Feel free to dive into the project and discover the insights into Olympic success. Your feedback and thoughts are greatly appreciated! 🥇🌍 #DataAnalysis #Olympics #DataScience #MedalGames
+## Top 10 Countries by Medal Count
+
+### Summer Olympics
+![Top 10 Summer](Top_10_country.png)
+
+### Winter Olympics
+![Top 10 Winter](top10_by_medals.png)
+## Edition Matters
+
+The edition of the Olympics can have a significant impact on the results. Factors like the addition of new sports, changes in rules, and geopolitical events can influence medal counts.
+![heatmap_by_edition](heatmap_by_edition.png)
+
+## Gender Matters
+
+Gender equality in the Olympics has been a growing concern. The inclusion of more women's events and efforts to promote gender balance have shaped the competition over the years.
+![heatmap_by_gender](heatmap_by_gender.png)
+
+
 
