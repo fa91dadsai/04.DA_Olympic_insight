@@ -45,10 +45,10 @@ Explore the full project and its findings:
 
 Feel free to dive into the project and discover the insights into Olympic success. Your feedback and thoughts are greatly appreciated! 🥇🌍 #DataAnalysis #Olympics #DataScience #MedalGames
 ## Top 10 Countries by Medal Count
-![Top 10 Summer](Top_10_country.png)
+![Top 10 Countries by Medal Count](Top_10_country.png)
 
 ### Top 10 country By Medal (Gold,Silver,Bronze)
-![Top 10 Winter](top10_by_medals.png)
+![Top 10 country By Medal (Gold,Silver,Bronze)](top10_by_medals.png)
 ## Edition Matters
 
 The edition of the Olympics can have a significant impact on the results. Factors like the addition of new sports, changes in rules, and geopolitical events can influence medal counts.
