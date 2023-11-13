@@ -45,11 +45,9 @@ Explore the full project and its findings:
 
 Feel free to dive into the project and discover the insights into Olympic success. Your feedback and thoughts are greatly appreciated! 🥇🌍 #DataAnalysis #Olympics #DataScience #MedalGames
 ## Top 10 Countries by Medal Count
-
-### Summer Olympics
 ![Top 10 Summer](Top_10_country.png)
 
-### Winter Olympics
+### Top 10 country By Medal (Gold,Silver,Bronze)
 ![Top 10 Winter](top10_by_medals.png)
 ## Edition Matters
 
